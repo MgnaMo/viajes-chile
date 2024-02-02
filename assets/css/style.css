@@ -13,6 +13,8 @@ footer {
     background-color: #ba57d8;
 }
 
+/*navbar y logo*/
+
 .navbar{
     position:absolute;
     width:100%;
@@ -49,4 +51,10 @@ p {
 
 .card-img-top {
     height: 200px;
+}
+
+/*form contacto*/
+
+.btn {
+    background-color: #ba57d8;
 }
