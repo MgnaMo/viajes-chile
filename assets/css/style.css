@@ -12,3 +12,41 @@ html {
 footer {
     background-color: #ba57d8;
 }
+
+.navbar{
+    position:absolute;
+    width:100%;
+    z-index:10;
+    max-width:100%;
+}
+
+.logo-viajes-chile {
+    width: 5%;
+}
+
+/*quienes somos*/
+
+.icon-box {
+    background-color:#ba57d8;
+    padding: 5px;
+}
+
+i {
+    color: #ffffff;
+    font-size: 30px;
+}
+
+p {
+    color: #ffffff;
+}
+
+/*destacados*/
+
+.card {
+    background-color: #ba57d8;
+    height: 380px;
+}
+
+.card-img-top {
+    height: 200px;
+}
