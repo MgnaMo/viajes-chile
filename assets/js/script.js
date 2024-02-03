@@ -3,6 +3,10 @@ $(document).ready(function(){
     $("#enviarMensaje").click(function(){
         alert("El mensaje fue enviado a tu correo :)")
     })
+
+        $(".destacados").dblclick(function () {
+            $(this).hide(2500);
+    });
 });
 
 
